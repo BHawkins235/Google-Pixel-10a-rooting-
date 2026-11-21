@@ -385,4 +385,5 @@ Files on the Desktop or other synced folders can be placeholders or get locked d
 | Reboot | `.\fastboot reboot` |
 
 ## Links 
+|---|---|
 | Google pixel 10a image | https://developer.android.com/about/versions/17/qpr1/download/ |
